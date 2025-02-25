@@ -1,0 +1,39 @@
+.title{
+    height: 70px;
+    background-color: purple;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.blue {
+    background-color: #33b5e5;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    width: 95px;
+    height: 40px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.facts{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.text-container1{
+    display: flex;
+    flex-direction: column;
+    float: right;
+    width: 80%;
+    margin: 10px;
+
+}
+
+.text-container2{
+    border: solid 2px #33b5e5;
+    margin-top: 20px;
+}
